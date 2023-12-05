@@ -3,6 +3,9 @@ import styled from 'styled-components'
 export const Paragrafo = styled.h1`
 
     color: black;
+    font-size: 60px;
+    margin: 0;
+    border: 0;
     
 `
 export const Cima = styled.div`
@@ -12,7 +15,56 @@ export const Cima = styled.div`
     height: 70%;
     display: flex;
     align-items: center;
-    justify-content: center;
     flex-direction: column;
-    margin-bottom: 100px;
+   
+`
+export const Meio = styled.div`
+
+    width: 100%;
+    height: 55%;
+    display: flex;
+    flex-direction: column;
+
+`
+
+export const DivBotoes = styled.div`
+
+    width: 100%;
+    height: 30%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    `
+
+export const Input = styled.input`
+
+    margin-top: 50px;
+    width: 25%;
+    height: 35px;
+    margin-left: 750px;
+    border-radius: 10px;
+
+    
+`
+export const Input1 = styled.input`
+
+    margin-top: 100px;
+    width: 25%;
+    height: 35px;
+    margin-left: 750px;
+    border-radius: 10px;
+`
+export const Botoes = styled.button`
+
+    margin-top: 50px;
+    width: 160px;
+    height: 40px;
+    margin-left: 100px;
+    border-radius: 20px;
+`
+export const PlaceHolder = styled.`
+
+    margin-left: 5px;
+    color: black;
+    font-size: 10px;
 `
