@@ -9,5 +9,3 @@ Adicionei algumas informações importantes aqui.
 ## Alterações Remotas (Atividade_React)
 
 O repositório remoto também fez algumas alterações importantes aqui.
-
-vdd concordo
