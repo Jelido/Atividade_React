@@ -62,9 +62,3 @@ export const Botoes = styled.button`
     margin-left: 100px;
     border-radius: 20px;
 `
-export const PlaceHolder = styled.`
-
-    margin-left: 5px;
-    color: black;
-    font-size: 10px;
-`
