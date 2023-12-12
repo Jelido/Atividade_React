@@ -1,3 +1,11 @@
-# Base
+# Projeto Unificado
 
-Projeto base para aplicações. Este repositório fornece uma estrutura inicial para o desenvolvimento, facilitando a criação de novos projetos. Inclui configurações básicas, scripts de inicialização e estrutura de diretórios padronizada. Use este projeto como ponto de partida para criar suas aplicações, personalizando conforme necessário. Contribuições são bem-vindas!
+Este projeto é uma combinação dos projetos "Base" e "Atividade_React".
+
+## Alterações Locais (Base)
+
+Adicionei algumas informações importantes aqui.
+
+## Alterações Remotas (Atividade_React)
+
+O repositório remoto também fez algumas alterações importantes aqui.
